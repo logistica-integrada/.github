@@ -20,14 +20,14 @@ To become a national reference in integrated logistics services through technolo
 
 ## Values
 
-* Efficiency
-* Practicality
-* Agility
-* Quality
-* Transparent communication
-* Continuous innovation
-* Strong relationships with users, drivers, and partners
-* Diversity and collaboration
+- Efficiency
+- Practicality
+- Agility
+- Quality
+- Transparent communication
+- Continuous innovation
+- Strong relationships with users, drivers, and partners
+- Diversity and collaboration
 
 ## Website
 
